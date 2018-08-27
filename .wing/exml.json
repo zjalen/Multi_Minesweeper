@@ -1,0 +1,38 @@
+{
+  "global": {
+    "globalAutoLayerMarkEnable": true,
+    "globalBindingDataTestObj": [],
+    "globalAdsorbEnable": true,
+    "globalRulerEnable": true
+  },
+  "16569ad2f4b": {
+    "backgroundType": "user",
+    "useBgImage": false,
+    "useBgColor": true,
+    "bindingDataTestObj": [],
+    "guideLinesEnabled": false
+  },
+  "16569ab8646": {
+    "backgroundType": "null",
+    "backgroundColor": "#e5e5e5",
+    "guideLines": [
+      {
+        "type": "v",
+        "pos": 9.091
+      },
+      {
+        "type": "v",
+        "pos": -384.848
+      },
+      {
+        "type": "h",
+        "pos": -39.394
+      }
+    ]
+  },
+  "165743e621b": {
+    "path": "custom/mButton.ts",
+    "class": "mButton",
+    "parentPath": ""
+  }
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SingleSenceSkin" width="640" height="1236" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*" >
+	<w:Config id="16569ab8646" ></w:Config>
+	<e:Rect anchorOffsetX="0" anchorOffsetY="0" left="0" right="0" top="0" bottom="0" fillColor="0xbfbfbf"/>
+	<e:Group height="70" left="0" right="0" top="0">
+		<e:Label id="lb_mines_number" text="0" x="0" anchorOffsetX="0" width="100" textAlign="center" verticalAlign="middle" background="true" backgroundColor="0xa5a5a5" top="0" bottom="0"/>
+		<e:Label id="lb_state" text="游戏准备中" textAlign="center" verticalAlign="middle" border="true" x="100" y="0" scaleX="1" scaleY="1" width="440" anchorOffsetY="0" height="70" anchorOffsetX="0"/>
+		<e:Label id="lb_sign_number" text="0" x="540" top="0" bottom="0" anchorOffsetX="0" width="100" textAlign="center" verticalAlign="middle" background="true" backgroundColor="0xa5a5a5" fontFamily="Arial"/>
+	</e:Group>
+	<e:Group height="640" left="0" right="0" y="70">
+		<e:Image source="m_border_png" scale9Grid="47,45,550,548" anchorOffsetY="0" left="0" right="0" top="0" bottom="0" x="0" y="0" scaleX="1" scaleY="1"/>
+		<e:Group id="mine_area" left="0" right="0" top="0" bottom="0"/>
+	</e:Group>
+	<e:Group id="btn_group" height="70" y="730" anchorOffsetY="0" left="0" right="0">
+	</e:Group>
+</e:Skin>

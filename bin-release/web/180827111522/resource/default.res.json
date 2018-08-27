@@ -1,0 +1,40 @@
+{
+	"groups": [
+		{
+			"keys": "egret_icon_png,border_png,header_png",
+			"name": "preload"
+		},
+		{
+			"keys": "mines_json,m_border_png",
+			"name": "main"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "assets/mines/mines.json",
+			"type": "sheet",
+			"name": "mines_json",
+			"subkeys": "m0,m1,m2,m3,m4,m5,m6,m7,m8,m_boom,m_default,m_flag,m_mine"
+		},
+		{
+			"url": "assets/mines/m_border.png",
+			"type": "image",
+			"name": "m_border_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{"file":"mines.png","frames":{
+"m_boom":{"x":205,"y":205,"w":100,"h":100,"offX":0,"offY":0,"sourceW":100,"sourceH":100},
+"m_default":{"x":103,"y":205,"w":100,"h":100,"offX":0,"offY":0,"sourceW":100,"sourceH":100},
+"m_flag":{"x":1,"y":205,"w":100,"h":100,"offX":0,"offY":0,"sourceW":100,"sourceH":100},
+"m_mine":{"x":409,"y":103,"w":100,"h":100,"offX":0,"offY":0,"sourceW":100,"sourceH":100},
+"m0":{"x":307,"y":103,"w":100,"h":100,"offX":0,"offY":0,"sourceW":100,"sourceH":100},
+"m1":{"x":205,"y":103,"w":100,"h":100,"offX":0,"offY":0,"sourceW":100,"sourceH":100},
+"m2":{"x":103,"y":103,"w":100,"h":100,"offX":0,"offY":0,"sourceW":100,"sourceH":100},
+"m3":{"x":1,"y":103,"w":100,"h":100,"offX":0,"offY":0,"sourceW":100,"sourceH":100},
+"m4":{"x":409,"y":1,"w":100,"h":100,"offX":0,"offY":0,"sourceW":100,"sourceH":100},
+"m5":{"x":307,"y":1,"w":100,"h":100,"offX":0,"offY":0,"sourceW":100,"sourceH":100},
+"m6":{"x":205,"y":1,"w":100,"h":100,"offX":0,"offY":0,"sourceW":100,"sourceH":100},
+"m7":{"x":103,"y":1,"w":100,"h":100,"offX":0,"offY":0,"sourceW":100,"sourceH":100},
+"m8":{"x":1,"y":1,"w":100,"h":100,"offX":0,"offY":0,"sourceW":100,"sourceH":100}}}
